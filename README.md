@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhinavsai2006
 - 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Computer Science and engineering with specialization Artificial Intelligence and Machine Learning
-- 💞️ I’m looking to collaborate on tech-related,creative
+- 💞️ I’m looking to collaborate on Tech-related,Creative
 - 📫 How to reach me through Linkedin
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that honey never spoils? Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible! Honey's natural preservatives and low water content create an environment where bacteria and microorganisms can't grow.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinavsai2006
+- 👋 Hi, I’m @abhinavsai
 - 👀 I’m interested in Software Development and Machine Learning
 - 🌱 I’m currently learning Computer Science and engineering with specialization Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on Tech-related,Creative
